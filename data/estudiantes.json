@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "nombre": "Steven Saul",
+    "apellido": "Villafuerte Diaz",
+    "email": "@unemi.edu.ec",
+    "carnet": "0929953388",
+    "notas": {},
+    "materias": []
+  },
+  {
+    "id": 2,
+    "nombre": "Andres",
+    "apellido": "Stafano",
+    "email": "@xd.com",
+    "carnet": "0927635",
+    "notas": {},
+    "materias": []
+  }
+]
